@@ -1,0 +1,19 @@
+{
+  "name": "pubnub-time",
+  "version": "1.0.0",
+  "description": "Syncronize local time with PubNub server time",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pubnub",
+    "time"
+  ],
+  "author": "Alexey Korepanov",
+  "license": "ISC",
+  "devDependencies": {
+    "promise": "^7.1.1",
+    "zeptojs": "^1.1.4"
+  }
+}
